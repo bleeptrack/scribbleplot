@@ -9,8 +9,8 @@ collection of my processing sketches used for transforming images to artsy plott
 ![stylized image of cat](exampleResults/scribble.jpg)
 ![stylized image of cat](exampleResults/scribble2.jpg)
 
-# reactionDiffusion [jpg, needs to be vectorized]
-![stylized image of cat](exampleResults/reactiondiffusion1.jpg)
-![stylized image of cat](exampleResults/reactiondiffusion2.jpg)
+# reactionDiffusion [png, needs to be vectorized]
+![stylized image of cat](exampleResults/reactiondiffusion1.png)
+![stylized image of cat](exampleResults/reactiondiffusion2.png)
 
 
